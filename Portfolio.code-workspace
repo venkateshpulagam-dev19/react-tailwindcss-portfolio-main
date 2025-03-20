@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Portfolio",
+			"path": "../../Desktop/Portfolio"
+		},
+		{
+			"name": "react-tailwindcss-portfolio-main",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

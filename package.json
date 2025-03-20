@@ -1,0 +1,20 @@
+{
+  "name": "react-tailwindcss-portfolio-main",
+  "version": "1.0.0",
+  "description": "A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/venkatesh-pulagam_wwg).",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "jest",
+    "start": "webpack-dev-server --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@expo/webpack-config": "^19.0.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
