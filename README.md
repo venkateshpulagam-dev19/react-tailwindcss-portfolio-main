@@ -1,3 +1,23 @@
+Web View (zoomed out for snapshot) - ![image](https://github.com/user-attachments/assets/60f8e0a3-d46d-4cbe-bee5-1d44cf88a7d3)
+
+                                            IPAD
+![image](https://github.com/user-attachments/assets/e545e1f4-3ab7-4630-8ffc-b1def058544a)
+![image](https://github.com/user-attachments/assets/4a77e6f2-3064-473a-b623-1cc0a204e6c3)
+
+                                       Iphone 14 pro
+
+![image](https://github.com/user-attachments/assets/1f3b237a-9d39-4ed7-9e8c-6346b93b4767)
+![image](https://github.com/user-attachments/assets/62b14a2b-d2d9-457d-8958-4df8006fc3eb)
+
+
+
+
+
+
+
+
+
+
 ## Setup
 
 1. Make sure you have Node JS installed. If you don't have it:
